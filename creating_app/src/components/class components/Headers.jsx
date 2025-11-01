@@ -4,7 +4,7 @@ const Headers = () =>{
         <img src="https://sample-website-pi.vercel.app/images/logo.png" />
     </nav>
         <div className="navbar">
-        <h1>HOME</h1>  
+        <h1>HOME PAGE LOADING</h1>  
         <h1>ABOUT</h1>
         <h1>BLOG</h1>
         <h1>CONTACT</h1>
